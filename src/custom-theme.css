@@ -176,6 +176,7 @@
   order: 5;
 }
 
-.vjs-custom-skin > .video-js .vjs-control-bar .vjs-fullscreen-control {
-  order: 6;
+.vjs-custom-skin>.video-js .vjs-control-bar .vjs-fullscreen-control{
+   display: none;
+   order: 6;
 }
